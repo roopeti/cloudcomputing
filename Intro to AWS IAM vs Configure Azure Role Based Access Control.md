@@ -25,7 +25,7 @@
 - Created a group and added users to it. 
 - Assigned roles to users or groups using RBAC.
 - Verified access by checking the permissions.
-- Used Azures IAM to manage and review role assignments.
+- Used Azures (IAM) blade to manage and review role assignments.
 
 I couldn't find where the MSLE grades are saved? So I only have this screenshot that shows I have attempted the lab: 
 
@@ -44,3 +44,21 @@ I couldn't find where the MSLE grades are saved? So I only have this screenshot 
 |Feature|AWS|Azure|
 |:------|:--|:----|
 |Identity Management|IAM manage users, groups, roles, and policies|Azure AD manages users and groups|
+|Access control|Policy-based|Role-based|
+|Permissions|Custom policies|Custom roles|
+|Experience|AWS management console|Azure Portal|
+|Testing access|Login as user|Check access via portal, test user permissions|
+|Resource deletion|End lab, resources deleted automatically|Manual clean-up using Cloud Shell (PowerShell)|
+
+
+# Similarities
+- Both provide a centralized IAM.
+- Both support grouping users and assigning permissions.
+- Both use management portals for config. and verification.
+- Created users, groups, and assigned access in both labs.
+
+# Differences
+- AWS uses a policy-based model, unlike Azure which uses a role-based model.
+- Azure RBAC allows role assignment at multiple levels (resource, group, subscription), AWS IAM works at the resource or account level.
+- Azure RBAC is integrated with Azure AD, while AWS IAM is a standalone system.
+
