@@ -23,4 +23,10 @@
 ### What I did in the lab: 
 - Used Azure Portal to create user accounts and groups.
 - Created a group and added users to it. 
-- 
+- Assigned roles to users or groups using RBAC.
+- Verified access by checking the permissions.
+- Used Azures IAM to manage and review role assignments.
+
+I couldn't find where the MSLE grades are saved? So I only have this screenshot that shows I have attempted the lab: 
+
+![Azure Lab attempted](https://github.com/roopeti/cloudcomputing/blob/bc9b08d1f627b4eda377dac991ead4e203106e95/Image%203.5.2025%20at%2013.47.jpeg)
