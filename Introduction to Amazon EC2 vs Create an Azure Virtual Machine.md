@@ -29,7 +29,7 @@
 - After that, I installed nginx on the VM using a command.
 
 ### Services Used
-- Used Azure AD fo access.
+- Used Azure AD for access.
 - Compute
 - Storage
 - Database
