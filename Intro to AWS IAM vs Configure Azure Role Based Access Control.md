@@ -9,6 +9,7 @@
 - Logged in as the new users to test and confirm the access based on policies.
 - Learned how different users had different access levels based on the group policies I set.
 
+![Lab Results](
 
 ### Core services used
 - IAM
