@@ -30,3 +30,17 @@
 I couldn't find where the MSLE grades are saved? So I only have this screenshot that shows I have attempted the lab: 
 
 ![Azure Lab attempted](https://github.com/roopeti/cloudcomputing/blob/bc9b08d1f627b4eda377dac991ead4e203106e95/Image%203.5.2025%20at%2013.47.jpeg)
+
+### Services used
+- Azure Active Directory
+- RBAC
+- Compute
+- Resource Groups
+
+
+
+## Comparison between the two
+
+|Feature|AWS|Azure|
+|:------|:--|:----|
+|Identity Management|IAM manage users, groups, roles, and policies|Azure AD manages users and groups|
