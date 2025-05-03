@@ -36,3 +36,13 @@
 
 Same thing here, I don't know where the MSLE grades are so here is a screenshot that I have atleast attempted the lab:
 ![Azure VM Lab](https://github.com/roopeti/cloudcomputing/blob/fc0625cc07ec1f693fe16c950f73b1722f4c1861/Image%203.5.2025%20at%2014.27.jpeg)
+
+## Similarities
+- Both labs focused on making a basic VM in the cloud.
+- Required configuration of compute, networking, and storage.
+- Both used identity and access management to control permissions.
+
+## Differences
+- AWS lab was more manual, had to use the web console for each step.
+- Azure used automation and scripting using the Could Shell.
+- In Azure, nginx installation was included.
