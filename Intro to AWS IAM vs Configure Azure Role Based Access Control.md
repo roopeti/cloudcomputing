@@ -7,7 +7,7 @@
 - Created IAM groups and attached permissions. 
 - Created IAM users, assigned them to groups.
 - Logged in as the new users to test and confirm the access based on policies.
-- Learned how different users had different access levels based on the group policies I set
+- Learned how different users had different access levels based on the group policies I set.
 
 
 ### Core services used
