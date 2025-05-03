@@ -25,7 +25,7 @@
 - Created a group and added users to it. 
 - Assigned roles to users or groups using RBAC.
 - Verified access by checking the permissions.
-- Used Azures (IAM) blade to manage and review role assignments.
+- Used Azures (IAM) blades to manage and review role assignments.
 
 I couldn't find where the MSLE grades are saved? So I only have this screenshot that shows I have attempted the lab: 
 
