@@ -4,7 +4,7 @@
 - I built a scalable web architecture using elastic load balancing (ELB), and auto scaling.
 - First, I selected an EC2 instance and created an AMI from it. This is a template for launching new instances in the Auto Scaling group.
 - Then I set up an application load balancer (ALB), which distributes incoming traffic across multiple instances.
-- Created a template from the previously created AMI, and defined and Auto Scaling group. It was configured so that it launches a new EC2 instance within private subnets as needed, based on health checks.
+- Created a template from the previously created AMI, and defined an Auto Scaling group. It was configured so that it launches a new EC2 instance within private subnets as needed, based on health checks.
 - After I configured CouldWatch alarms to monitor based on CPU utilization, which would then trigger scaling actions to maintain performance.
 
 ### Services used
