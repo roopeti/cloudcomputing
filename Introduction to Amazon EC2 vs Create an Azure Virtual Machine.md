@@ -7,7 +7,7 @@
 - Modified security group rules to allow HTTP access.
 - Enabled termination protection to prevent accidental deletion.
 - Used AWS tools to monitor instance status and performance.
-- Learned how to change the instanfcec type to scale resources.
+- Learned how to change the instance type to scale resources.
 - Tested that the instance termination works and then disabled it and deleted the EC2 instance.
 
 ![EC2 Lab](https://github.com/roopeti/cloudcomputing/blob/3cd6eaa50b85413f76093a6ee8d7f259e2c9f26d/Image%203.5.2025%20at%2014.23.jpeg)
